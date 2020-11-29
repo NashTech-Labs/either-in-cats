@@ -1,0 +1,1 @@
+This template is about Either Monad in Cats.
